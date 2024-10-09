@@ -1,1 +1,1 @@
-# ehc_ctf_t
+# ehc_ctf_training
